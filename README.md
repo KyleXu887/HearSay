@@ -4,7 +4,7 @@
 
 HearsayAI is an advanced AI-powered cryptocurrency news intelligence platform designed to provide real-time insights, sentiment analysis, and actionable intelligence for crypto enthusiasts, investors, and researchers.
 
-![HearsayAI Banner](https://placeholder-banner-url.com)
+![Website](https://hearsayai.info/)
 
 ## 🎯 Key Features
 
